@@ -1,0 +1,17 @@
+Lane,Special,200
+Lane,Right,742
+Lane,Left,432
+Lane,Down,592
+Right,Bomb,130
+Right,Normal,180
+Right,Hold,300
+Right,Bomb,450
+Down,Normal,620
+Right,Hold,750
+Down,Normal,800
+Down,Bomb,900
+Right,Bomb,1000
+Left,Normal,1050
+Right,Hold,1200
+Left,Normal,5000
+
